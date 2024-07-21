@@ -1,6 +1,6 @@
 # Instalação de usinas de captação de radiação solar
 
-O objetivo deste projeto foi definir a região geográfica com maior potencial para a instalação de usinas de captação de radiação solar incidente em superfície para fins de geração de energia elétrica, sendo necessário realizar análises com dados provenientes de medições efetuadas por piranômetros instalados em várias partes do Brasil. Esses dados foram fornecidos pelas estações automáticas do Instituto Nacional de Meteorologia (INMET).
+Este projeto visou determinar a região geográfica com maior potencial para a instalação de usinas de captação de radiação solar incidente em superfície para fins de geração de energia elétrica, sendo necessário realizar análises com dados provenientes de medições efetuadas por piranômetros instalados em várias partes do Brasil. Esses dados foram fornecidos pelas estações automáticas do Instituto Nacional de Meteorologia (INMET).
 
 Assim, foram escolhidas 5 estações, cada uma pertencente a uma região geográfica do Brasil. As estações escolhidas foram as de Bauru (SP),  Alegrete (RS), Porto Seguro (BA), Barcelos (AM) e Brasília (DF). No código estão os resultados para a cidade de Barcelos, como exemplo. Para obter os resultados das demais cidades, deve-se realizar a leitura dos seus respectivos arquivos.
 
